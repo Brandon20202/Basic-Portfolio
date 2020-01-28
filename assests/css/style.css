@@ -1,19 +1,24 @@
 body{
     background-color:#4aaaa5;
     background-image: url("lilypads.png");
-    max-width: 100%;
+   
 }
 h1 {
   font-family: Georgia, 'Times New Roman', Times, serif; 
   color: #4aaaa5; 
   background-color: #777777;
   font-size: 38px;
+  padding: 40;
+  
 }
 h2{
     font-family: Arial, Helvetica, sans-serif;
     color:#777777;
     font-size: 30px;
     float: left;
+    position: fixed;
+    right:-20px;
+    top:0;
 }
 
 h3{
@@ -28,9 +33,6 @@ h3{
     width:100%;
     font-size: 30px;
 
-}
-img{
-    float: left;
 }
 
 p{
@@ -50,5 +52,31 @@ input{
     height:40px;
     width:100%;
 }
+.Pictures{
+    float: left;
+    position: relative;
 
+}
+h5{
+    color: black;
+    padding: 40px;
+}
+h6{
+    color:black;
+    padding: 40px;
+}
+h7{
+    color:black;
+    padding:40px;
+}
 
+h8{
+    color:black;
+    padding:40px;
+
+}
+h9{
+    color:black;
+    padding:40px;
+}
+ 
