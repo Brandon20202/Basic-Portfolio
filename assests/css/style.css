@@ -10,7 +10,7 @@ h1 {
   
 }
 h2{
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     color:#4aaaa5;
     font-size: 20px;
     position: absolute;
@@ -19,7 +19,7 @@ h2{
 }
 
 h3{
-    font-family:Arial, Helvetica, sans-serif;
+    font-family:Georgia, 'Times New Roman', Times, serif;
     color:#4aaaa5;
     font-size: 35px;
 }
@@ -71,29 +71,10 @@ h4{
 h5{
     color: black;
     padding: 40px;
-    z-index: 2;
 }
 h6{
     color:black;
     padding: 40px;
-    z-index: 3;
-}
-h7{
-    color:black;
-    padding:40px;
-    z-index:4;
-}
-
-h8{
-    color:black;
-    padding:40px;
-    z-index: 5;
-
-}
-h9{
-    color:black;
-    padding:40px;
-    z-index: 6;
 }
  .ComicBook{
      position: relative;
