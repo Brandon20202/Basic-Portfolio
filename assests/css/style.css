@@ -94,8 +94,33 @@ h9{
     padding:40px;
     z-index: 6;
 }
- .PorfolioImages{
-     position: static;
-     top: 0;
-     left:0;
+ .ComicBook{
+     position: relative;
+     bottom: 30px;
+     left: 30px;
+     float: left;
+ }
+ .Pinball{
+     position: relative;
+     bottom: 30px;
+     left: 60px;
+     float: left;
+ }
+ .RockPaperScissors{
+    position: relative;
+     bottom: 30px;
+     left: 90px;
+     float: left;
+ }
+ .TriviaQuiz{
+    position: relative;
+    bottom: -100px;
+    left: 30px;
+    float: left;
+ }
+ .TicTacToe{
+    position: relative;
+    bottom: 100px;
+    left: 30px;
+    float: left;
  }
